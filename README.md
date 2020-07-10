@@ -1,4 +1,4 @@
-This is Buttermilk Brothers Landing Page
+This is Resume Landing Page
 
 My first HTML/CSS Project, Testing and Training
 
